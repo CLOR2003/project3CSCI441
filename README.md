@@ -1,3 +1,3 @@
 # project3CSCI441
 
-Details: Redoing project 2 but with keras.
+Details: Re-doing project 2 but with keras.
